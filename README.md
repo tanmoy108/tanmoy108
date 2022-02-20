@@ -5,6 +5,7 @@ Have nothing to say about me
 <strong>Skills:</strong>
 <li>HTML</li>
 <li>CSS</li>
+<li>JS</li>
 <li>Bootstrap</li>
 <li>PHP</li>
 <br>
