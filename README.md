@@ -8,6 +8,7 @@
 <li>JS</li>
 <li>React</li>
 <li>Material Ui</li>
+<li>C++</li>
 <li>PHP</li>
 
 
