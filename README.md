@@ -7,10 +7,9 @@
 <li>Bootstrap</li>
 <li>JS</li>
 <li>React</li>
+<li>Redux</li>
 <li>Material Ui</li>
 <li>C++</li>
-<li>PHP</li>
-
 
 <br>
 
