@@ -4,7 +4,11 @@
 <h3 align="center">SKILL</h3>
 <hr>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,materialui,redux,firebase,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,tailwind,materialui,redux,nodejs,express,mongodb,c,cpp" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
 </p>
 <hr>
 
@@ -12,12 +16,6 @@
 <p align="center">
 <a href="https://github.com/tanmoy108">
  <img src='https://www.kindpng.com/picc/m/255-2558173_github-logo-png-transparent-png.png' height='40'>
-</a>
-<a href="https://www.facebook.com/shtanmoy108">
- <img src='https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png' alt='facebook' height='40'>
-</a>
-<a href="https://www.instagram.com/shtanmoy108/">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' alt='instagram' height='40'>
 </a>
 <a href="https://www.behance.net/tanmoy46">
   <img src='https://www.seekpng.com/png/full/302-3020963_behance-icon-png-social-media-vector-behance-behance.png' alt='behance' height='40'>
